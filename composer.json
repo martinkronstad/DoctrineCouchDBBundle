@@ -1,7 +1,7 @@
 {
-    "name": "doctrine/couchdb-odm-bundle",
+    "name": "martinkronstad/couchdb-odm-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony2 Doctrine CouchDB Bundle",
+    "description": "Symfony3 Doctrine CouchDB Bundle",
     "keywords": ["persistence", "couchdb", "symfony"],
     "homepage": "http://www.doctrine-project.org",
     "license": "LGPL",
